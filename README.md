@@ -1,0 +1,1 @@
+![Screenshot](note-taking.png)
